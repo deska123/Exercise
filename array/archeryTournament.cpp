@@ -1,5 +1,13 @@
 #include <iostream>
 
+/** 
+ * This single .exe program functionates to create a simple archery tournaments
+ * and find its winner based on its score
+ *
+ * @author Dennis Pratama Kamah 
+ * @version 2017.06.24
+**/
+
 main()
 {
 	std::cout << "Archery Tournament with 5 players" << "\n";

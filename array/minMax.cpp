@@ -1,5 +1,13 @@
 #include <iostream>
 
+/** 
+ * This single .exe program functionates to find maximum and minimum
+ * value from a 10-sized array
+ *
+ * @author Dennis Pratama Kamah 
+ * @version 2017.06.24
+**/
+
 main()
 {
 	std::cout << "Input 10 numbers" << "\n";

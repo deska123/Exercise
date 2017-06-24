@@ -1,5 +1,13 @@
 #include <iostream>
 
+/** 
+ * This single .exe program functionates to generate a transpose matrix
+ * from an ordinary matrix with specific dimension
+ *
+ * @author Dennis Pratama Kamah 
+ * @version 2017.06.24
+**/
+
 main()
 {
 	int row, column;
